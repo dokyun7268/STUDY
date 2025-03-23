@@ -1,0 +1,18 @@
+text_color1: #000000
+text_color2: #333333
+text_color3: #b88e2f
+text_color4: #ffffff
+text_color5: #666666
+text_color6: #3a3a3a
+text_color7: #898989
+text_color8: #616161
+text_color9: #9f9f9f
+bax_color1: #fff3ee
+bar_color1: #d9d9d9
+background color: #f4f5f7
+background color: #e97171
+background color: #2EC1AC
+
+
+Montserrat, bold, 34
+Poppins, medium, 16
